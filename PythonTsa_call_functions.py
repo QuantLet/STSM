@@ -5,8 +5,9 @@ Created on Tue Jun 18 10:19:06 2019
 
 @author: mariaculjak
 
-LjungBoxtest.py ; plot_acf_pacf.py
+Running LjungBoxtest.py ; plot_acf_pacf.py
 
+Run this command in the terminal while making sure your terminal location is in the same directory as .whl file:
 pip install PythonTsa-1.2-py3-none-any.whl
 
 """
