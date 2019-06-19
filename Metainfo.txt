@@ -1,4 +1,4 @@
-Name of Quantlet: STSM
+Name of Quantlet: PythonTsa_call_functions
 
 Published in: Quantlet
 
