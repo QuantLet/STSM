@@ -1,17 +1,9 @@
-Name of Quantlet: ANNregression
+Name of Quantlet: Stationary Time Series Models
 
 Published in: Quantlet
 
-Description: 'Gradient descent implementation from scratch in order to train an artificial neural network to fit a regression of city-cycle fuel consumption in miles per gallon.'
+Description: 'This chapter first introduces the backshift operator which is one way to make a nonstationary time series stationary. It presents the AR, MA and ARMA models and discusses their properties. Also distinguishes the ARMA model from the ARMA process.'
 
-Keywords: Dense, ANN, MLP, deep learning, neural network
+Keywords: ARMA process, LjungBox test, ACF, PACF
 
-Author: Bruno Spilak
-
-Submitted:  2019-02-05 by Bruno Spilak
-
-Output:
-- ANNregression1.png
-
-Data:
-- mpg.csv
+Author: Changquan Huang, Maria Culjak
