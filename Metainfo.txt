@@ -1,4 +1,4 @@
-Name of Quantlet: Stationary Time Series Models
+Name of Quantlet: STSM
 
 Published in: Quantlet
 
